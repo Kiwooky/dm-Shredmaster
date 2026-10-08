@@ -5,7 +5,7 @@
 ######################################
 
 DM_SHREDMASTER_VERSION = <SHA>
-DM_SHREDMASTER_SITE = https://github.com/davemollen/dm-Shredmaster.git
+DM_SHREDMASTER_SITE = https://github.com/Kiwooky/dm-Shredmaster.git
 DM_SHREDMASTER_SITE_METHOD = git
 DM_SHREDMASTER_BUNDLES = dm-Shredmaster.lv2
 
